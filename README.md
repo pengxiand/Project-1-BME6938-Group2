@@ -397,39 +397,3 @@ Install using:
 pip install -r requirements.txt
 ```
 
----
-
-# Code Quality Standards
-
-This project follows standard Python and machine learning best practices.
-
-### Documentation
-
-- Functions include docstrings
-- Complex steps include inline comments
-
-### Reproducibility
-
-- Random seed fixed (`random_state=42`)
-- Stratified train-test split
-- Cross-validation for reliable evaluation
-
-### Best Practices
-
-- Meaningful variable names
-- PEP 8 compliant Python style
-- Modular preprocessing pipelines
-- No hard-coded paths
-- Clear project structure
-
-### Version Control
-
-Example commit messages:
-
-```
-Add preprocessing pipeline
-Implement model comparison framework
-Add neural network training
-Add ROC and confusion matrix visualization
-Update project documentation
-```
