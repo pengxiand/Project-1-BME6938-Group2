@@ -359,11 +359,9 @@ University of Florida
 Email: jamesboyd@ufl.edu  
 
 Contributions:
-
-- Conducted literature review on Parkinson's Disease voice biomarkers
 - Explored dataset features and interpretation
 - Assisted with evaluation metrics analysis
-- Contributed to presentation preparation
+- Contributed Results and Disscussion
 
 ---
 
@@ -373,8 +371,8 @@ University of Florida
 Contributions:
 
 - Assisted with model comparison experiments
-- Validated model outputs and analysis
-- Contributed to project discussion and presentation
+- Validated code outputs project documentation
+- Contributed Abstract, Introduction, Literature Review, and Methods
 
 ---
 
